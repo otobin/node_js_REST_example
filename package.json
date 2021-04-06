@@ -1,0 +1,25 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Tracing out example at https://www.edureka.co/blog/rest-api-with-node-js/",
+  "main": "index.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otobin/node_js_REST_example"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "optobin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/otobin/node_js_REST_example"
+  },
+  "homepage": "https://github.com/otobin/node_js_REST_example/blob/main/README.md",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
